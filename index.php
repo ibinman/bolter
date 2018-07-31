@@ -10,8 +10,6 @@
 <body class="loading disabled">
 	<?php require "partials/loader.php" ?>
 	<?php require "partials/banner.php" ?>
-	<?php require "partials/services.php" ?>
-	<?php require "partials/team.php" ?>
 	<?php require "partials/portfolio.php" ?>
 	<?php require "partials/about.php" ?>
 	<?php require "partials/clients.php" ?>
